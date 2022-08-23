@@ -1,0 +1,5 @@
+server:
+  port: 5000
+
+jwt:
+  secret: secretkey001
